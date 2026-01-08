@@ -15,6 +15,7 @@ O objetivo deste portfólio é demonstrar a aplicação prática de conceitos de
 | 05 | [Web Vuln Scanner](./Projeto-05-VulnScanner) | WebSec / Red Team | Python, BeautifulSoup | **Concluído** |
 | 06 | [Forensic File Scanner](./Projeto-06-FileSigScanner) | Forensics / Blue Team | Python, JSON | **Concluído** |
 ## Detalhamento Técnico
+| 07 | [Caesar Cipher Breaker](./Projeto-07-CaesarBreaker) | Cryptography / Scripting | Python, Math | - | **Concluído** |
 
 ### Competências Aplicadas
 * **Linux Internals:** Interação direta com o subsistema de entrada do Kernel (`/dev/input/`) para contornar isolamento gráfico do Wayland.
