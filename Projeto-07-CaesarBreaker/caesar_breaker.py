@@ -2,7 +2,7 @@
 import sys
 import argparse
 
-# Cores para o terminal
+
 class C:
     G = '\033[92m' # Green
     Y = '\033[93m' # Yellow
@@ -10,7 +10,7 @@ class C:
     C = '\033[96m' # Cyan
     E = '\033[0m'  # End
 
-# Frequência aproximada das letras em Português (PT-BR)
+
 PT_FREQ = {
     'a': 14.63, 'b': 1.04, 'c': 3.88, 'd': 4.99, 'e': 12.57, 'f': 1.02,
     'g': 1.30, 'h': 1.28, 'i': 6.18, 'j': 0.40, 'k': 0.02, 'l': 2.78,
@@ -74,12 +74,12 @@ def break_cipher(ciphertext):
         score = get_score(plaintext)
         candidates.append((score, shift, plaintext))
 
-    # Ordena os candidatos pela maior pontuação
+    
     candidates.sort(key=lambda x: x[0], reverse=True)
 
     best_score, best_shift, best_text = candidates[0]
     
-    # Exibe o banner simplificado
+
     print(rf"""{C.C}
    ___ __ _  ___ ___  __ _ _ __ 
   / __/ _` |/ _ \/ __|/ _` | '__|
