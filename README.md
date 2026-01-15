@@ -14,7 +14,7 @@ O objetivo deste portfólio é demonstrar a aplicação prática de conceitos de
 | 04 | [Network Packet Sniffer](./Projeto-04-Sniffer) | Network / Blue Team | Python, Scapy | **Concluído** |
 | 05 | [Web Vuln Scanner](./Projeto-05-VulnScanner) | WebSec / Red Team | Python, BeautifulSoup | **Concluído** |
 | 06 | [Forensic File Scanner](./Projeto-06-FileSigScanner) | Forensics / Blue Team | Python, JSON | **Concluído** |
-| 07 | [Caesar Cipher Breaker](./Projeto-07-CaesarBreaker) | Cryptography / Scripting | Python, Math | - | **Concluído** |
+| 07 | [Caesar Cipher Breaker](./Projeto-07-CaesarBreaker) | Cryptography / Scripting | Python, Math | **Concluído** |
 ## Detalhamento Técnico
 
 ### Competências Aplicadas
