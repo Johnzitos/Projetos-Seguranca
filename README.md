@@ -8,13 +8,14 @@ O objetivo deste portfólio é demonstrar a aplicação prática de conceitos de
 
 | ID | Ferramenta | Categoria | Stack Tecnológico | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | [Auditor de Compliance de Senhas](./Projeto-01-Auditor-Senha) | GRC / Blue Team | Python, Math, Regex | **Concluído** |
+| 01 | [Auditor de Compliance de Senhas](./Projeto-01-Auditor-Senha) | GRC / Blue Team | Python, Math, Regex | **Em Desenvolvimento** |
 | 02 | [Network Port Scanner](./Projeto-02-PortScanner) | Recon / Red Team | Python, Socket Library | **Concluído** |
 | 03 | [Keylogger Multi-Plataforma](./Projeto-03-Keylogger) | Malware Dev / Red Team | Python, Kernel (evdev), WinAPI | **Concluído** |
 | 04 | [Network Packet Sniffer](./Projeto-04-Sniffer) | Network / Blue Team | Python, Scapy | **Concluído** |
 | 05 | [Web Vuln Scanner](./Projeto-05-VulnScanner) | WebSec / Red Team | Python, BeautifulSoup | **Concluído** |
 | 06 | [Forensic File Scanner](./Projeto-06-FileSigScanner) | Forensics / Blue Team | Python, JSON | **Concluído** |
 | 07 | [Caesar Cipher Breaker](./Projeto-07-CaesarBreaker) | Cryptography / Scripting | Python, Math | **Concluído** |
+| 08 | [IntegrityGuard (Security Suite)](./Projeto-08-IntegrityGuard) | Cryptography / AppSec | Python, RSA, AES | - | **Em Desenvolvimento** |
 ## Detalhamento Técnico
 
 ### Competências Aplicadas
